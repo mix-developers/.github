@@ -7,7 +7,7 @@
 #### (Web, Desktop, and Mobile Developer)
 MIX DEVELOPER adalah kumpulan developer atau pengembang aplikasi web, desktop dan mobile yang berasal dari kota Merauke, Papua Selatan, Indonesia
 
-Skills: PHP / LARAVEL / NODE JS /VUE JS / JS / HTML / CSS / PYTHON
+Skills: PHP / LARAVEL / NODE JS / VUE JS / JS / HTML / CSS / PYTHON
 
 #### Portofolio 
 Berikut adalah beberapa project yang telah kami kerjakan:
