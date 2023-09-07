@@ -21,3 +21,5 @@ URL : https://tphbun.merauke.go.id/
 ##### 3. Website : Si Waneen
 URL : https://si-waneen.tphbun.merauke.go.id/
 
+##### 4. Website : SIPETA
+URL : https://sipeta.tphbun.merauke.go.id/
